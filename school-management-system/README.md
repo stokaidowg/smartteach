@@ -42,10 +42,4 @@ npm start
 - **Seat Planning**: Located in `src/modules/seat-planning/index.ts`
 - **Timetable Manager**: Located in `src/modules/timetable-manager/index.ts`
 
-## Contributing
-
-Contributions are welcome! Please submit a pull request or open an issue for any enhancements or bug fixes.
-
 ## License
-
-This project is licensed under the MIT License.
