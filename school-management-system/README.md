@@ -41,5 +41,3 @@ npm start
 - **Room Management**: Located in `src/modules/room-management/index.ts`
 - **Seat Planning**: Located in `src/modules/seat-planning/index.ts`
 - **Timetable Manager**: Located in `src/modules/timetable-manager/index.ts`
-
-## License
