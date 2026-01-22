@@ -1,0 +1,14 @@
+﻿node_modules/
+school-management-system/node_modules/
+school-management-system/client/node_modules/
+school-management-system/client/build/
+school-management-system/dist/
+*.log
+.env
+.env.local
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.tmp

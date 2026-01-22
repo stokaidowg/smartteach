@@ -1,0 +1,1 @@
+cd F:\Projects\School-Management\SmartTeach; Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass; .\start-smartteach.ps1
