@@ -191,15 +191,3 @@ Then update `src/db.ts` to use these variables.
 **bcrypt errors on Windows:**
 - Install windows-build-tools: `npm install --global windows-build-tools`
 - Or use: `npm install bcrypt --build-from-source`
-
-## 📄 License
-
-MIT License
-
-## 👥 Support
-
-For issues or questions, please create an issue in the repository.
-
----
-
-Made with ❤️ for educational institutions
